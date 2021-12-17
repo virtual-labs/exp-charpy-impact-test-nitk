@@ -2,38 +2,87 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In Charpy impact test, the specimen is kept as",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Simply supported beam",
+        "b": "Cantilever beam",
+        "c": "Overhanging beam",
+        "d": "Fixed ended beam"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Tensile and bending stress also gives impact resisting qualities of material. (Say true or false)",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "True",
+        "b": "False"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Match the following for charpy test<br><img src=\"./images/table_charpyse.png\"/>",
+      "answers": {
+        "a": "1-d; 2-e; 3-b; 4-a; 5-c",
+        "b": "1-c; 2-d; 3-a; 4-e; 5-b",
+        "c": "1-a; 2-b; 3-c; 4-d; 5-e",
+        "d": "1-d; 2-e; 3-a; 4-b; 5-c"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Stress induced in a body due to suddenly applied load compared to when it is applied gradually is",
+      "answers": {
+        "a": "Same",
+        "b": "Half",
+        "c": "2 times",
+        "d": "4 times"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "The quantitative result of the impact test - the energy needed to fracture a material can be used to measure the toughness of the material and the ________.",
+      "answers": {
+        "a": "Yield strength",
+        "b": "Hardness",
+        "c": "Corrosion",
+        "d": "Creep deformation"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
     }
   ]
 }
