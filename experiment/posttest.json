@@ -2,38 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In charpy impact test KU 300/5; where 300/5 indicates",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Test was conducted with 300 Joules striking energy with 5 mm deep notch",
+        "b": "Test was conducted with 300 Newton force with 5 mm deep notch",
+        "c": "Both a and b are correct",
+        "d": "Both a and b are incorrect"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which is incorrect?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "In charpy test notch is U shaped and is placed so that it lies on compression side",
+        "b": "Striking energy for Izod is 164J",
+        "c": "In charpy test, specimen supported horizontally in simply supported manner.",
+        "d": "All the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "The speed of the hammer at the instant of striking shall be",
+      "answers": {
+        "a": "9.8 - 10 m/sec",
+        "b": "6.2 - 9 m/sec",
+        "c": "2 - 4.8 m/sec",
+        "d": "2 - 4.8 m/sec"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "What is the distance between the supports in charpy test?",
+      "answers": {
+        "a": "10 mm",
+        "b": "20 mm",
+        "c": "30 mm",
+        "d": "40 mm"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "The initial energy of the hammer is",
+      "answers": {
+        "a": "300 Joules",
+        "b": "290 Joules",
+        "c": "164 Joules",
+        "d": "200 Joules"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
     }
   ]
 }
